@@ -2,7 +2,7 @@
 
 A LangChain agent that can answer questions about Bangladesh using three real datasets and falls back to web search for general knowledge questions.
 
-**Live demo:** https://multi-tool-ai-agent-bd.streamlit.app  *(replace with your Streamlit Cloud link after deploying)*
+**Live demo:** https://multi-tool-ai-agent-bd-bfaqzk7glurhyfkxkkhwdb.streamlit.app/
 
 ## What it does
 
